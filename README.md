@@ -1,5 +1,5 @@
 ![Aakarsh Profile GIF](https://github.com/AakarshTeja/AakarshTeja/raw/master/aakarsh-profile.gif)
-## Hello My Dear Fellow Developers 👋
+### Hello My Dear Fellow Developers 👋
 ### I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field. 
 
 ### Skills 🚀
