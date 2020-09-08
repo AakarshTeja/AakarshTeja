@@ -1,13 +1,13 @@
 ![Aakarsh Profile GIF](https://github.com/AakarshTeja/AakarshTeja/raw/master/aakarsh-profile.gif)
-# Hello My Dear Fellow Developers 👋
-### I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field. 
+### Hello My Dear Fellow Developers 👋
+##### I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field. 
 
 - 🔭 I’m currently working on Web Based Projects
 - 🌱 I’m currently learning Frontend
 - 👯 I’m looking to collaborate on Laravel Projects
 - 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
 
-## Skills 🚀
+### Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
@@ -27,13 +27,13 @@
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 
 
-## Connect With me 🤝🤝
+### Connect With me 🤝🤝
 [<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
 [<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
 [<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
 [<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
 
-## Stats 📊
+### Stats 📊
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarshteja&show_icons=true" alt="aakarshteja_stats" /> 
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devded&layout=compact" alt="aakarshteja_stats" />
