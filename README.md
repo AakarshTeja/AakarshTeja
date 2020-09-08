@@ -1,11 +1,6 @@
 ![Aakarsh Profile GIF](https://github.com/AakarshTeja/AakarshTeja/raw/master/aakarsh-profile.gif)
-### Hello My Dear Fellow Developers 👋
-##### I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field. 
-
-- 🔭 I’m currently working on Web Based Projects
-- 🌱 I’m currently learning Frontend
-- 👯 I’m looking to collaborate on Laravel Projects
-- 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
+## Hello My Dear Fellow Developers 👋
+### I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field. 
 
 ### Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
@@ -26,6 +21,12 @@
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 
+### Aboutme🤓
+
+- 🔭 I’m currently working on Web Based Projects
+- 🌱 I’m currently learning Frontend
+- 👯 I’m looking to collaborate on Laravel Projects
+- 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
 
 ### Connect With me 🤝🤝
 [<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
