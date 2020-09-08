@@ -1,8 +1,8 @@
 ![Aakarsh Profile GIF](https://github.com/AakarshTeja/AakarshTeja/raw/master/aakarsh-profile.gif)
 ### Hello My Dear Fellow Developers 👋
-### I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field. 
+__I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very much interested in contributing for open source. And my career interest is in cybersecurity field.__
 
-### Skills 🚀
+### My Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
@@ -37,6 +37,6 @@
 ### Stats 📊
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarshteja&show_icons=true" alt="aakarshteja_stats" /> 
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devded&layout=compact" alt="aakarshteja_stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshteja&layout=compact" alt="aakarshteja_stats" />
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="Aakarsh Teja Profile visits" /></p>
