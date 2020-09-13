@@ -24,7 +24,7 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University.I am very m
 ### Aboutme🤓
 
 - 🔭 I’m currently working on Web Based Projects
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Frontend,Cybersecurity
 - 👯 I’m looking to collaborate on Laravel Projects
 - 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
 
