@@ -27,6 +27,7 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 - 🌱 I’m currently learning Frontend,Cybersecurity
 - 👯 I’m looking to collaborate on Laravel, security Projects
 - 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
+- 💭 My dream is to work with Elon Musk, Hope one day I'll meet him and explain my ideas.
 
 ### Connect With Me 🤝🤝
 [<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
