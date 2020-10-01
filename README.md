@@ -22,6 +22,7 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### About Me🤓
 
