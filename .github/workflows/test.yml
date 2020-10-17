@@ -28,6 +28,6 @@ jobs:
         with:
           json-file-path: 'data.json'
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          columns: 1
+          columns: 2
           object-field-names: '[ "number", "projectName", "url" ]'
           html-cell: '<td align="center">{{ number }}</td> <td align="center"><a href="{{ url }}">{{ projectName }}</a> </td>'  
