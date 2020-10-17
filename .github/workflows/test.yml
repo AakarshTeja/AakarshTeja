@@ -30,4 +30,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           columns: 2
           object-field-names: '[ "number", "projectName", "url" ]'
-          html-cell: '<td align="center">{{ number }}</td> <td align="center"><a href="{{ url }}">{{ projectName }}</a> </td>'  
+          html-cell: '<td align="center"><a href="{{ url }}">{{ number }}.{{ projectName }}</a> </td>'  
