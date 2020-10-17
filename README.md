@@ -45,3 +45,7 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshteja&layout=compact" alt="aakarshteja_stats" />
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="Aakarsh Teja Profile visits" /></p>
+
+### Projects 💪
+<!--START_SECTION:data-section--> 
+<!--END_SECTION:data-section-->
