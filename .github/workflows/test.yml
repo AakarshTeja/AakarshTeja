@@ -24,7 +24,7 @@ jobs:
 
      # For projects  
       - name: Write Projects to Readme.md file
-        uses: eddiejaoudecommunity/gh-actions-html-table-generator@v0.1
+        uses: aakarshteja/gh-actions-html-table-generator
         with:
           json-file-path: 'data.json'
           github-token: ${{ secrets.GITHUB_TOKEN }}
