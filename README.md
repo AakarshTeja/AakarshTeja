@@ -48,4 +48,5 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 
 ### Projects 💪
 <!--START_SECTION:data-section-->
+<table width="100%"><tr><td align="center"><a href="https://github.com/AakarshTeja/AakarshTeja">1.AakarshTeja</a> </td></tr></table>
 <!--END_SECTION:data-section-->
