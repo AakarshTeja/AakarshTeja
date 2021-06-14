@@ -43,6 +43,7 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarshteja&show_icons=true" alt="aakarshteja_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshteja&layout=compact" alt="aakarshteja_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakarshteja&" alt="aakarshteja_stats"/>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="Aakarsh Teja Profile visits" /></p>
 
