@@ -1,6 +1,6 @@
 ![Aakarsh Profile GIF](https://github.com/AakarshTeja/AakarshTeja/raw/master/aakarsh-profile.gif)
 ### Hello My Dear Fellow Developers 👋
-__I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very much interested in contributing for open source. And my career interest is cybersecurity. Always there to help others and to clarify the doubts you have.__
+__I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very much interested in contributing for open source. And my career interest is Cloud & Cybersecurity. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
